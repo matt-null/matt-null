@@ -26,7 +26,7 @@ I build things that have to work on day one, for real businesses and real hardwa
 - 🏠 **Smart home and security** — connected setups, automation, camera and alarm installs
 - 🎮 **Game servers** — setup, management and custom plugins
 
-I also run a retail business, so most of what I build starts as something I needed myself.
+I also manage a retail business, so most of what I build starts as something I needed myself.
 
 ---
 
